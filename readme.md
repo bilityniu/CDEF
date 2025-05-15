@@ -1,4 +1,4 @@
-# [JOE2025] Underwater Scene Enhancement via Adaptive Color Analysis and Multi-Space Fusion
+# [JOE 2025] Underwater Scene Enhancement via Adaptive Color Analysis and Multi-Space Fusion
 
 This repository contains the MATLAB implementation of CDEF (MATLAB Version) underwater image enhancement algorithm described in [JOE 2025]().
 
