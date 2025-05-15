@@ -4,10 +4,13 @@ This repository contains the MATLAB implementation of CDEF (MATLAB Version) unde
 
 [![Website](asset/docs/badge-website.svg)](https://hongklin.github.io/TIDE/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2503.21771-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.21771)
+[![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## 🌊 Overview
 
 Our method takes into account different types of underwater scenes and employs two-type enhancements based on bluish and greenish images. By performing two color space conversions, we significantly increase the color correlation between the RGB channels and reduce color deviation during the processing stage. The raw images are compensated for the lost color channel information while mapping the image tone and remaining detail by dehazing and sharpening. The multi-scale exposure pyramids in YUV space are adopted to fuse these enhanced images as inputs. The specific weights can guide these inputs to preserve proper brightness and details with low color distortion and artifacts.
+
+![CDEF_pipeline.](asset/images/overview.png)
 
 ## 🪸 Requirements
 
