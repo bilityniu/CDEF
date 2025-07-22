@@ -50,11 +50,11 @@ output_dir = './Results/';
 If you use this code in your research, please cite:
 
 ```
-@article{author2024underwater,
-  title={Underwater Scene Enhancement via Adaptive Color Analysis and Multi-Space Fusion},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
+@article{cdef_2025_JOE,
+    title={Underwater Scene Enhancement via Adaptive Color Analysis and Multi-Space Fusion},
+    author={Yuan, Jieyu and Zhang, Yuhan and Cai, Zhanchuan},
+    journal={10.1109/JOE.2025.3591405},
+    year={2025}
 }
 ```
 
