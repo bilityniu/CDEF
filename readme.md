@@ -53,7 +53,8 @@ If you use this code in your research, please cite:
 @article{cdef_2025_JOE,
     title={Underwater Scene Enhancement via Adaptive Color Analysis and Multi-Space Fusion},
     author={Yuan, Jieyu and Zhang, Yuhan and Cai, Zhanchuan},
-    journal={10.1109/JOE.2025.3591405},
+    journal={IEEE Journal of Oceanic Engineering},
+    doi={10.1109/JOE.2025.3591405},
     year={2025}
 }
 ```
