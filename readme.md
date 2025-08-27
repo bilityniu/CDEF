@@ -3,7 +3,7 @@
 This repository contains the MATLAB implementation of CDEF (MATLAB Version) underwater image enhancement algorithm described in [JOE 2025]().
 
 [![Website](asset/docs/badge-website.svg)](https://bilityniu.github.io/CDEF/)
-[![JOE](https://img.shields.io/badge/JOE-Published-blue.svg)](https://doi.org/xxx)
+[![JOE](https://img.shields.io/badge/JOE-Published-blue.svg)](https://doi.org/10.1109/joe.2025.3591405)
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## 🌊 Overview
@@ -62,4 +62,5 @@ If you use this code in your research, please cite:
 ## 🏖️Contact
 
 For questions and further information, please contact: jieyuyuan.cn@gmail.com
+
 
