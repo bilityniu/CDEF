@@ -1,6 +1,6 @@
 function output = MTHT(image, time, block1,block2, weight)
-% weight£ºÈ¡ÖµÓ¦¸Ã£¨0,0.25]·¶Î§ÄÚ.
-% ÔÚÒ»¶¨·¶Î§ÄÚ£¬È¡ÖµÔ½´ó£¬Í¼ÏñÂÖÀª»áÔ½ÇåÎú£¬µ«ÊÇ³¬¹ıãĞÖµºó£¬È¨ÖØ¼ÌĞøÔö´ó»áµ¼ÖÂÔëµã¹ı¶à.
+% weightï¼šå–å€¼åº”è¯¥ï¼ˆ0,0.25]èŒƒå›´å†….
+% åœ¨ä¸€å®šèŒƒå›´å†…ï¼Œå–å€¼è¶Šå¤§ï¼Œå›¾åƒè½®å»“ä¼šè¶Šæ¸…æ™°ï¼Œä½†æ˜¯è¶…è¿‡é˜ˆå€¼åï¼Œæƒé‡ç»§ç»­å¢å¤§ä¼šå¯¼è‡´å™ªç‚¹è¿‡å¤š.
 
 if ~exist('time', 'var')
     time = 10;
@@ -52,7 +52,7 @@ if i == 1
 else  
     detail = (THNM + THNSM) - (BHNM + BHNSM);
 end
-    detail = imguidedfilter(detail,image);
     output = image + weight * detail;
     
+
 end
